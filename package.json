@@ -1,0 +1,27 @@
+{
+  "name": "welcome-whatsapp",
+  "version": "1.0.0",
+  "description": "A WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "Alexito",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexito-Hub/Welcome-WhatsApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexito-Hub/Welcome-WhatsApp/issues"
+  },
+  "homepage": "https://github.com/Alexito-Hub/Welcome-WhatsApp#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "pino": "^8.15.0",
+    "util": "^0.12.5"
+  }
+}
