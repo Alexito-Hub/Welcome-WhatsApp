@@ -1,5 +1,5 @@
 const { connect } = require('./connection')
-const { load } = require('')
+const { load } = require('./loader')
 
 async function start() {
     try {
